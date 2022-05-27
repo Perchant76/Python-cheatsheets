@@ -2,7 +2,7 @@
 ###Those are my first python files you might see them as notes and way how I learned python
 ![Preview of the files](https://i.imgur.com/AB6sIzf.png)
 
-1 List of functions:
+1 Essential things you have to know:
 * [Variables](Variables.py)
 * [Inputs ](input.py)
 * [strings](strings.py)
