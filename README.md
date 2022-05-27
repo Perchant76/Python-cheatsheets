@@ -19,3 +19,5 @@
 * [def](def.py)
 * [exercise: calculator](ULTIMATEPROCALCULATOR.py)
 * import: [math](https://docs.python.org/3/library/math.html), [time](https://docs.python.org/3/library/time.html)
+
+Note: There are also other files that I used while learning feel free to took through them
